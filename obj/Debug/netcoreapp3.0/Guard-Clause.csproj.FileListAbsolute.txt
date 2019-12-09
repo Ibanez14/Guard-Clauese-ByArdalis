@@ -1,0 +1,13 @@
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Guard-Clause.exe
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Guard-Clause.deps.json
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Guard-Clause.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Guard-Clause.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Guard-Clause.dll
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Guard-Clause.pdb
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\obj\Debug\netcoreapp3.0\Guard-Clause.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\obj\Debug\netcoreapp3.0\Guard-Clause.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\obj\Debug\netcoreapp3.0\Guard-Clause.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\obj\Debug\netcoreapp3.0\Guard-Clause.dll
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\obj\Debug\netcoreapp3.0\Guard-Clause.pdb
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\bin\Debug\netcoreapp3.0\Ardalis.GuardClauses.dll
+C:\Users\sovsh\Desktop\Testing Application\Guard-Clause\obj\Debug\netcoreapp3.0\Guard-Clause.csproj.CopyComplete
